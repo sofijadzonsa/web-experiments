@@ -1,3 +1,14 @@
+body{
+    background-color: blueviolet;
+}
 h1{
     color: cyan;
+    text-align: center;
+}
+
+img{
+    width: 500px;
+}
+p{
+    font-style: italic;
 }
